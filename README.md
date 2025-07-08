@@ -21,7 +21,12 @@ This project contains an analysis of sales data from an online store.
 ## How to use
 
 Run `task1_online_store_analysis.py` which load `data/sales_data.csv` and perform data analysis.
+## How to run
 
+1. Clone this repository:
+
+```bash
+git clone 
 ---
 
 ## Author
